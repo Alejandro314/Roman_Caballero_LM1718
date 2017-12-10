@@ -1,0 +1,206 @@
+* {
+  box-sizing: border-box;
+}
+
+#container {
+  width: 80%;
+  background-color: white;
+  height: 800px;
+  margin: 0px auto;
+}
+
+.componentes {
+  width: 96%;
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+#header {
+  height: 50px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+#header1 {
+  width: 100%;
+  height: 100%;
+}
+
+#p1 {
+  float: left;
+  display: inline;
+  font-size: 25px;
+  font-style: italic;
+  font-family: sans-serif;
+  margin-top: 6px;
+  margin-right: 280px;
+}
+
+#pp1 {
+  color: DarkCyan;
+}
+
+#pp2 {
+  color: grey;
+}
+
+#pp3 {
+  color: black;
+}
+
+#p2 {
+  width: 50%;
+  height: 50px;
+  display: inline;
+}
+
+#p2 p {
+  font-size: 15px;
+  float: left;
+  margin-right: 2%;
+}
+
+#cuerpo {
+  height: 330px;
+  margin-bottom: 20px;
+  background-color: WhiteSmoke;
+}
+
+#cuerpo1 {
+  width: 100%;
+  height: 100%;
+}
+
+.cc {
+  width: 40px;
+  height: 90%;
+  margin-top: 5px;
+  margin-left: 5px;
+  float: left;
+  border-radius: 5px;
+}
+
+.text {
+  transform: rotate(-90deg);
+  color: white;
+  position: relative;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+.numero {
+  color: white;
+  position: relative;
+  top: 110px;
+  left: 8px;
+  font-weight: lighter;
+}
+
+#c1 {
+  background-color: orangered;
+}
+
+#c1 p {
+  top: 30px;
+}
+
+#especial {
+  width: 500px;
+  height: 300px;
+  background-image: url(i1.png);
+  background-size: 620px;
+  float: left;
+  margin: 5px;
+}
+
+#c2 {
+  background-color: orange;
+}
+
+#c2 p {
+  top: 50px;
+}
+
+#c3 {
+  background-color: yellow;
+}
+
+#c3 p {
+  top: 85px;
+}
+
+#c4 {
+  background-color: forestgreen;
+}
+
+#c4 p {
+  top: 60px;
+}
+
+#c5 {
+  background-color: green;
+}
+
+#c5 p {
+  top: 110px;
+}
+
+#pie {
+  width: 96%;
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+  height: 120px;
+}
+
+#pie hr {
+  color: grey;
+}
+
+.tt {
+  margin-left: 15px;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.tt img {
+  margin-right: 10px;
+}
+
+.ttt {
+  font-size: 10px;
+  float: left;
+  margin-left: 5px;
+}
+
+#t1 {
+  width: 22.5%;
+  height: 100%;
+  background-color: WhiteSmoke;
+  float: left;
+  margin-right: 3.33%
+}
+
+#t2 {
+  width: 22.5%;
+  height: 100%;
+  background-color: WhiteSmoke;
+  float: left;
+  margin-right: 3.33%;
+}
+
+#t3 {
+  width: 22.5%;
+  height: 100%;
+  background-color: WhiteSmoke;
+  float: left;
+  margin-right: 3.33%
+}
+
+#t4 {
+  width: 22.5%;
+  height: 100%;
+  float: right;
+  background-color: WhiteSmoke;
+}
