@@ -1,0 +1,33 @@
+$anchodelacaja: 768px;
+$alturadelacaja: 512px;
+$colorfondo: blue;
+$colorletra: red;
+$borde: 4px solid purple;
+
+.caja {
+  width: $anchodelacaja;
+  height: $alturadelacaja;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: green;
+  margin: 0 auto;
+
+  .a {
+    text-decoration: none;
+    color: yellow;
+  }
+}
+
+.importante {
+  @extend .caja;
+  height: 200px;
+  border: 300px;
+  background-color: $colorfondo;
+  border: $borde;
+
+  .a {
+    text-decoration: none;
+    color: yellow;
+  }
+}

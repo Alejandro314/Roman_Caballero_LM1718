@@ -1,0 +1,7 @@
+$colordefondo: #CD5C5C;
+$colordeborde: #FFFF00;
+
+.contenedor p {
+  background-color: $colordefondo;
+  border: $colordeborde 5px solid;
+}

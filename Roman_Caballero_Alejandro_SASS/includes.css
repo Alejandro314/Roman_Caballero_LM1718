@@ -1,0 +1,53 @@
+.contenedor p {
+  background-color: #CD5C5C;
+  border: #FFFF00 5px solid;
+}
+
+.caja, .importante {
+  width: 768px;
+  height: 512px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: green;
+  margin: 0 auto;
+}
+
+.caja .a, .importante .a {
+  text-decoration: none;
+  color: yellow;
+}
+
+.importante {
+  height: 200px;
+  border: 300px;
+  background-color: blue;
+  border: 4px solid purple;
+}
+
+.importante .a {
+  text-decoration: none;
+  color: yellow;
+}
+
+.list-1 {
+  margin-left: 5px;
+}
+
+.list-2 {
+  margin-left: 10px;
+}
+
+.list-3 {
+  margin-left: 15px;
+}
+
+.list-4 {
+  margin-left: 20px;
+}
+
+.list-5 {
+  margin-left: 25px;
+}
+
+/*# sourceMappingURL=includes.css.map */

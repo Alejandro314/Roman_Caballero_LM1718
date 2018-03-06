@@ -1,0 +1,5 @@
+@for $p from 1 through 5 {
+  .list-#{$p} {
+    margin-left: (5*$p)+px;
+  }
+}
